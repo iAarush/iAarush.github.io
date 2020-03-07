@@ -11,6 +11,10 @@ body {
     margin: 0;
 }
 
+.heading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -24,39 +28,50 @@ h4 {
 }
 
 .header {
-    padding: 5px;
+    padding: 1px;
     text-align: center;
     background: chartreuse;
     color: black;
     font-size: 30px;
 }
 
-.content {padding:25px;}
+.content {
+    padding:25px;
+}
 
 .topnav {
   background-color: black;
   overflow: hidden;
 }
 
+
 .topnav a {
   float: left;
   color: white;
   text-align: center;
-  padding: 13px 20px;
   text-decoration: none;
   font-size: 17px;
   background-color: black;
+  padding: 0px 10px;
 }
 
-.topnav a:hover {
-  background-color: #434343;
-  color: white;
-}
+/* .topnav a:hover {
+    color: springgreen;
+} */
 
 .topnav a.active {
-  background-color: chartreuse;
-  color: black;
+  color: chartreuse;
 }
+
+.topnav ul {
+   list-style: none;
+   text-align: center;
+}
+
+.topnav ul li {
+   display: inline-block;
+}
+
 
 .footer {
   padding: 1px 25px;
@@ -70,13 +85,15 @@ h4 {
 <body>
 
 <div class="header">
-    <h1>iAarush Mehrotra</h1>
+    <h1 class="heading">iAarush Mehrotra</h1>
     <h4>The blog</h4>
 </div>
 
 <div class="topnav">
-    <a class="active" href="index.html">Home</a>
-    <a href="[...]">Testing</a>
+    <ul>
+        <li><a class="active">Home</a></li>
+        <li><a>Test button</a></li>
+    </ul>
 </div>
 
 <div class="content">
