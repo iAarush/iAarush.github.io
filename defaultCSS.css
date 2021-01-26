@@ -80,30 +80,3 @@ h4 {
   color: black;
   text-align: center;
 }
-
-a.book {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: large;
-}
-
-a.footing {
-  padding: 1px 25px;
-  background-color:chartreuse;
-  color: black;
-  text-align: center;
-}
-
-a.footing.hover {
-  background-color:black;
-  color: chartreuse;
-}
-
-.dropdown-menu {
-  display: none;
-  position: absolute;
-  z-index: 1;
-}
-
-.dropdown-menu a:hover {
-  
-}
