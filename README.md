@@ -1,0 +1,2 @@
+# Thanks for stopping by 
+This is for my new personal site. It is under construction, and I may not have taken down all of my old sites just yet. The goal is to make this my site going forward, linked to my domain [aarush.studio](aarush.studio) and updating it more frequently for professional and personal purposes. 
