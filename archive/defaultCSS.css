@@ -1,0 +1,82 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    margin: 0;
+    text-align: center;
+}
+
+.heading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4 {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 40pt;
+  margin: 0px;
+}
+
+.header {
+    padding: 1px;
+    text-align: center;
+    background: chartreuse;
+    color: black;
+    font-size: 30px;
+}
+
+.subheading {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+}
+
+.content {
+    padding:25px;
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: black;
+  padding: 0px 10px;
+}
+
+.topnav a:hover {
+  color: chartreuse;
+}
+
+.topnav a.active {
+  color: chartreuse;
+}
+
+.topnav ul {
+   list-style: none;
+   text-align: center;
+}
+
+.topnav ul li {
+   display: inline-block;
+}
+
+
+.footer {
+  padding: 1px 25px;
+  background-color:chartreuse;
+  color: black;
+  text-align: center;
+}
