@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Mathematics-Computer Science @ UC San Diego
 
 profile:
   align: right
@@ -25,4 +25,6 @@ latest_posts:
 ---
 
 # Hi! I'm Aarush.
-> This is for my new personal site. It is under construction, and I may not have taken down all of my old sites just yet. The goal is to make this my site going forward, linked to my domain [aarush.studio](aarush.studio) and updating it more frequently for professional and personal purposes. 
+I am a recent Mathematics-Computer Science graduate from UC San Diego. I also had an unofficial minor in Economics. My skills and research span the field of applied computer science, with a focus on HPC System Administration, Machine Learning Research, and Web Development. I am actively looking for employment and available for freelance projects as well. 
+
+> This is my new personal site. It is under construction, and I may not have taken down all of my old sites just yet. The goal is to make this my site going forward, linked to my domain [aarush.studio](aarush.studio) and updating it more frequently for professional and personal purposes. 
